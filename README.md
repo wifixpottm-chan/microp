@@ -35,7 +35,7 @@
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/online-trading-platform.git
+    gh repo clone wifixpottm-chan/microp
     cd online-trading-platform
     ```
 
